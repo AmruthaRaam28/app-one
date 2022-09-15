@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NodeEx/static/css/main.5b7d671f.css",
+    "main.js": "/NodeEx/static/js/main.53336cd8.js",
+    "index.html": "/NodeEx/index.html",
+    "main.5b7d671f.css.map": "/NodeEx/static/css/main.5b7d671f.css.map",
+    "main.53336cd8.js.map": "/NodeEx/static/js/main.53336cd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b7d671f.css",
+    "static/js/main.53336cd8.js"
+  ]
+}
